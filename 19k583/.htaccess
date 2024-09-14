@@ -1,0 +1,26 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    ##RewriteBase /
+    ##RewriteRule sitemap.xml sitemap.php [L]
+
+    # Remove .php file extension
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+    ErrorDocument 404 404.php
+    
+    # ensure https
+    RewriteCond %{HTTP:X-Forwarded-Proto} !https
+    RewriteCond %{HTTPS} off
+    RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+</IfModule>
+
+
+# DO NOT REMOVE THIS LINE AND THE LINES BELOW PWPROTECTID:gaxtuYMbs5
+AuthType Basic
+AuthName "Restricted Access"
+AuthUserFile /home/u207550214/domains/calessons.com/public_html/19k583/.htpasswd
+Require valid-user
+# DO NOT REMOVE THIS LINE AND THE LINES ABOVE gaxtuYMbs5:PWPROTECTID
+

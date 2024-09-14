@@ -1,0 +1,187 @@
+#skip-main {
+    position:absolute;
+    top:-130px;
+	&:focus {
+		color: $white;
+		background: $primary;
+        text-decoration: none;
+		z-index: 9999999;
+        position:absolute;
+        top:0px;
+        left: 30px;
+        padding: 6px 10px;
+	}
+}
+
+.ca-wrapper {
+    width: 100%;
+    height:100%;
+    min-height: 100%;
+    @extend .d-flex;
+    .col {
+        position: relative;
+        height: 100%;
+        min-height: 100%;
+        @extend .h-100;
+        @extend .d-flex;
+        @extend .flex-column;
+        @extend .flex-grow-1;
+        &.sidebar {
+            width: 300px;
+            overflow: hidden;
+            padding: 15px 15px 45px 15px;
+            background-color: $sidebar-bg;
+            background-repeat: no-repeat;
+            background-size: contain;
+            z-index: 1045;
+            flex-basis: 300px;
+            @extend .flex-grow-0;
+            @extend .flex-shrink-0;
+            @extend .shadow;
+            &.left {
+                background-position: left center;
+                background-image: url('../img/communication-acceleration-mascot-right.png');
+                @extend .border-end;
+            }
+            &.right {
+                background-position: right center;
+                background-image: url('../img/communication-acceleration-mascot-left.png');
+                animation: rightBgBounce 5s linear infinite;
+                @extend .border-start;
+            }
+            .footer {
+                font-size: 14px;
+                @extend.text-muted;
+                @extend .text-center;
+                @extend .border-top;
+                margin: 0px -15px;
+                padding: 10px 15px;
+                position:absolute;
+                right:0px;
+                bottom:0px;
+                left:0px;
+            }
+        }
+        &.content {
+            overflow: hidden;
+            overflow-y: auto;
+            // background-color: $main-content-bg;
+        }
+    }
+}
+
+@keyframes rightBgBounce {
+    0%, 20%, 50%, 80%, 100% {background-position: right center;} 
+    40% {background-position: right -1px;}
+    60% {background-position: right center;}
+    80% {background-position: 282px center;}
+}
+
+.header {
+    // background-color: $purple;
+    color: $white;
+    font-size: 62px;
+    font-weight: 800;
+    line-height: 66px;
+    text-align: center;
+    margin: 0 inherit;
+    padding: 20px 0px 15px 0px;
+    h1 {
+        &.head {
+            font-size: 26px;
+            line-height:38px;
+            font-weight: 500;
+            color: $white;
+        }
+        &.landing-head {            
+            font-size: 23px;
+            line-height: 24px;
+            font-weight: bold;
+            margin-top:0px;
+            margin-bottom: 15px;
+            color: $white;
+        }
+    }
+    .ca-worksheet {
+        max-width: 100px;
+        height: auto;
+    }
+}
+
+.you-are-here {
+    padding: 10px 5px;
+    h2 {
+        width: auto;
+        display: inline-block !important;
+        margin: 0px 0px 0px 5px;
+    }
+}
+.you-are-here,
+.you-are-here h2 {
+    font-family: $font-family-base;
+    font-weight: 600;
+    font-size: 16px !important;
+    line-height: 28px;
+    @extend .text-muted;
+}
+
+.sub-banner {
+    padding-top: 90px;
+    padding-bottom:90px;
+    background-color: $primary;
+}
+
+footer {
+    background-color: $secondary;
+    .nav-link {
+        color: $white;
+        &:hover {
+            color: $white;
+        }
+    }
+    .copyright {
+        background-color: #27394e;
+        color: $white;
+    }
+}
+
+@include media-breakpoint-down(md) {
+    .ca-wrapper {
+        display: block !important;
+        position: relative;
+        width: 100%;
+        height: auto;
+        min-height: auto;
+        padding: 100px 0 0 0;
+        .col {
+            display: block !important;
+            width: 100%;
+            height: auto !important;
+            min-height: auto !important;
+            padding-top:0px;
+            &.sidebar {
+                position: fixed;
+                top:0px;
+                right:0px;
+                padding: 0px 15px 0px 0px;
+                width: 100%;
+                background-color: $green;
+                color: $white;
+                @extend .shadow;
+                &.left,
+                &.right {
+                    background-image: none;
+                }
+                .navbar-brand {
+                    img {
+                        width:auto;
+                        height:100px;
+                    }
+                }
+            }
+            &.content {
+                width: 100%;
+            }
+        }
+    }
+}

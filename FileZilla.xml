@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.66.4" platform="windows">
+	<Servers>
+		<Server>
+			<Host>156.67.78.2</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u207550214.52worksheets.com</User>
+			<Pass encoding="base64">UmZzbHNkZjA5MGRmanAhQCM=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>52worksheets.com</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>airdrie-daycare.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u461371087.daycare</User>
+			<Pass encoding="base64">RGF5Y2FyZWFpcmRyaWVAMjAyMg==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>AirdrieDaycare-FTP-Hostinger</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>021.0d4.myftpupload.com</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>YQOmzUCfrx1gOg</User>
+			<Pass encoding="base64">Rlk1MTZCMk4zU21tSEU=</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>andreadavide.com</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>162.214.81.12</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ixmyjamy</User>
+			<Pass encoding="base64">TWlsZVBlYXJsQDIwMTUh</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>BlueHost Server</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>figwp.sftp.wpengine.com</Host>
+			<Port>2222</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>figwp-Muk</User>
+			<Pass encoding="base64">TWVua2FAMjAxNSE=</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>buckvarandbuckvarnewyorkaccidentlawyers.com</Name>
+			<RemoteDir>1 0</RemoteDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>156.67.78.2</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u207550214.communicationacceleration.com</User>
+			<Pass encoding="base64">NipxSnRPK1Y2c2dT</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>CA-Hostinger</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>cashopping.sftp.wpengine.com</Host>
+			<Port>2222</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>cashopping-mukesh</User>
+			<Pass encoding="base64">bWFya0AxOTgyIQ==</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ca-shopping</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>cciny.sftp.wpengine.com</Host>
+			<Port>2222</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>cciny-mukesh</User>
+			<Pass encoding="base64">TWVua2FAMjAxNSE=</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>cciny.net</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>132.148.47.228</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>childabuselawyernewyork@childabuselawyernewyork.com</User>
+			<Pass encoding="base64">YXNkQDEyMyMwMDE=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>childabuselawyernewyork-godaddy</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>156.67.78.2</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u207550214.childabuselawyernewyork.com</User>
+			<Pass encoding="base64">NVE9a09tdy9S</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>ChildAbuseLawyerNewYork-Hostinger</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>childabuselawyernewyork.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mukesh@childabuselawyernewyork.com</User>
+			<Pass encoding="base64">a2FseWFuYW1hc3R1QDIwMDkh</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>childabuselawyernewyork.com</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>132.148.47.228</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>master@rootleveldomain.com</User>
+			<Pass encoding="base64">Y2FAcmVnYXUjMjAyMQ==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>CMS-GoDaddy Server</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>132.148.47.228</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mukesh@cmspark555.info</User>
+			<Pass encoding="base64">a2FseWFuYW1hc3R1QDIwMDkh</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>cmspark555.info</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>creativespark.sftp.wpengine.com</Host>
+			<Port>2222</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>creativespark-mukesh</User>
+			<Pass encoding="base64">Y21zQDIwMjAh</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>communicationacceleration-prod</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>ftp.mukeshpokhriyal.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>demo@mukeshpokhriyal.com</User>
+			<Pass encoding="base64">bWFya0AxOTgyIQ==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>demo@mukeshpokhriyal.com</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>52.74.223.126</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ftpfutureofnews.in</User>
+			<Pass encoding="base64">RkBUQHJAMGZuQHdz</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>FutureOfNews</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>hancca.sftp.wpengine.com</Host>
+			<Port>2222</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>hancca-mukesh</User>
+			<Pass encoding="base64">S2FseWFuYW1hc3R1QDIwMDkh</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>hancca.org</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>gsgp1010.siteground.asia</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mark@hirestorm.com</User>
+			<Pass encoding="base64">MjFAZCUxMTEldnpx</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>hirestorm.com</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>hyunga.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>mark@hyunga.com</User>
+			<Pass encoding="base64">bWFya0AxOTgyIQ==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>hyunga.com</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>156.67.78.2</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u207550214.lisagflowers.com</User>
+			<Pass encoding="base64">IXpLRC4tNEQqUkZVMml5</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>lisagflowers.com</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>175.41.142.178</Host>
+			<Port>21</Port>
+			<Protocol>6</Protocol>
+			<Type>0</Type>
+			<User>marketersx</User>
+			<Pass encoding="base64">bWFya2V0ZXJzeEBmdHAxMjM=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>MARKETERS EXcellence</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>160.153.16.24</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>test@mukeshpokhriyal.com</User>
+			<Pass encoding="base64">VGVzdEAxMjM=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>mukeshpokhriyal-testing</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>mukeshpokhriyal.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>impokhriyal</User>
+			<Pass encoding="base64">TWFya0AxOTgyIQ==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>mukeshpokhriyal.com</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>nicolegdev.sftp.wpengine.com</Host>
+			<Port>2222</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>nicolegdev-mukesh</User>
+			<Pass encoding="base64">Y21nQDIwMjIh</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>naturallyaesthetics-dev</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>156.67.76.191</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u210172570</User>
+			<Pass encoding="base64">V2FmaWlzZXJ2aWNlczIwMjIh</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>New site</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>victim.sftp.wpengine.com</Host>
+			<Port>2222</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>victim-Mukesh</User>
+			<Pass encoding="base64">QWZkeTBhZDg2MGFm</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>newyorkvictims.com</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>nictcomputer.com</Host>
+			<Port>16372</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>nictcomp</User>
+			<Pass encoding="base64">Z0UzYWlaVHhdLTc4KFE=</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>nictcomputer.com</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>103.133.215.101</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>sbsuser@sootbysoot.com</User>
+			<Pass encoding="base64">c2JzQDEyMw==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>SOOT-BY-SOOT</Name>
+			<Comments>103.133.215.101</Comments>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>52.74.223.126</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>startup_ftp</User>
+			<Pass encoding="base64">U3RhcnZuQDc4MQ==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_ACTIVE</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>StarupBrands.in</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>store52lessons.sftp.wpengine.com</Host>
+			<Port>2222</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>store52lessons-mukesh</User>
+			<Pass encoding="base64">S2FseWFuYW1hc3R1QDIwMDkh</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>store.52worksheets.com</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>77.72.4.66</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>support@taxbuddi.co.uk</User>
+			<Pass encoding="base64">bVByPyQ2c3JRP3Vq</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>taxbuddi.co.uk</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>159.89.175.121</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>v2design</User>
+			<Pass encoding="base64">VjJkZXNpZ24hQCMxMjM=</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>TechZillo Demo</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>31.170.167.25</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u338980636</User>
+			<Pass encoding="base64">RnRwQFRFUSFAIyQlNg==</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>tequantic_HOSTINGER.in</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>pistone.dreamhost.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>seonewyorker</User>
+			<Pass encoding="base64">VlljZVZXUGk=</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>theseonewyorker4websiteoptimization.com</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>thevacdaddy.sftp.wpengine.com</Host>
+			<Port>2222</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>thevacdaddy-Mukesh</User>
+			<Pass encoding="base64">SmwoKl5kOThoYSdhZGZqJ2E=</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>thevacdaddy.sftp.wpengine.com</Name>
+			<RemoteDir>1 0</RemoteDir>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>vacdaddydev.sftp.wpengine.com</Host>
+			<Port>2222</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>vacdaddydev</User>
+			<Pass encoding="base64">bWFya0AxOTgyIQ==</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>vacdaddydev</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>vdaddystaging.sftp.wpengine.com</Host>
+			<Port>2222</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>vdaddystaging-mukesh</User>
+			<Pass encoding="base64">bWFya0AxOTgyIQ==</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>vdaddystaging</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>156.67.76.191</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>u210172570</User>
+			<Pass encoding="base64">V2FmaWlzZXJ2aWNlczIwMjIh</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>Wafii.com.au</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>wowsdev.sftp.wpengine.com</Host>
+			<Port>2222</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>wowsdev-mukesh</User>
+			<Pass encoding="base64">a2FseWFuYW1hc3R1</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>worldofskills-wpengine</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>107.180.48.123</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>ezdata@wowslightbox.info</User>
+			<Pass encoding="base64">Xl1Ue0NvZkdrWmlk</Pass>
+			<Logontype>1</Logontype>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>worldofworkskills.com</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>wowskillsdev.sftp.wpengine.com</Host>
+			<Port>2222</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>wowskillsdev-mukesh</User>
+			<Pass encoding="base64">TWVua2FAMjAxNSE=</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>wow-dev</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>wowsdemostg.sftp.wpengine.com</Host>
+			<Port>2222</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>wowsdemostg-wowstaging</User>
+			<Pass encoding="base64">S2FseWFuYW1hc3R1QDIwMDkh</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>WOW-Staging</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+		<Server>
+			<Host>nataesth.sftp.wpengine.com</Host>
+			<Port>2222</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>nataesth-mukesh</User>
+			<Pass encoding="base64">TWFya0AxOTgyIQ==</Pass>
+			<Logontype>1</Logontype>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>wpengine-nataesth</Name>
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>
+		</Server>
+	</Servers>
+	<Settings>
+		<Setting name="Use Pasv mode">1</Setting>
+		<Setting name="Limit local ports">0</Setting>
+		<Setting name="Limit ports low">6000</Setting>
+		<Setting name="Limit ports high">7000</Setting>
+		<Setting name="Limit ports offset">0</Setting>
+		<Setting name="External IP mode">0</Setting>
+		<Setting name="External IP" />
+		<Setting name="External address resolver">http://ip.filezilla-project.org/ip.php</Setting>
+		<Setting name="Last resolved IP" />
+		<Setting name="No external ip on local conn">1</Setting>
+		<Setting name="Pasv reply fallback mode">0</Setting>
+		<Setting name="Logging Debug Level">0</Setting>
+		<Setting name="Logging Raw Listing">0</Setting>
+		<Setting name="Allow transfermode fallback">1</Setting>
+		<Setting name="Reconnect count">2</Setting>
+		<Setting name="Reconnect delay">5</Setting>
+		<Setting name="Enable speed limits">0</Setting>
+		<Setting name="Speedlimit inbound">1000</Setting>
+		<Setting name="Speedlimit outbound">100</Setting>
+		<Setting name="Speedlimit burst tolerance">0</Setting>
+		<Setting name="Preallocate space">0</Setting>
+		<Setting name="View hidden files">0</Setting>
+		<Setting name="Preserve timestamps">0</Setting>
+		<Setting name="Socket recv buffer size (v2)">4194304</Setting>
+		<Setting name="Socket send buffer size (v2)">262144</Setting>
+		<Setting name="FTP Keep-alive commands">0</Setting>
+		<Setting name="FTP Proxy type">0</Setting>
+		<Setting name="FTP Proxy host" />
+		<Setting name="FTP Proxy user" />
+		<Setting name="FTP Proxy password" />
+		<Setting name="FTP Proxy login sequence" />
+		<Setting name="SFTP keyfiles" platform="win" />
+		<Setting name="SFTP compression">0</Setting>
+		<Setting name="Proxy type">0</Setting>
+		<Setting name="Proxy host" />
+		<Setting name="Proxy port">0</Setting>
+		<Setting name="Proxy user" />
+		<Setting name="Proxy password" />
+		<Setting name="Logging file" platform="win" />
+		<Setting name="Logging filesize limit">10</Setting>
+		<Setting name="Size format">0</Setting>
+		<Setting name="Size thousands separator">1</Setting>
+		<Setting name="Size decimal places">1</Setting>
+		<Setting name="TCP Keepalive Interval">15</Setting>
+		<Setting name="Cache TTL">600</Setting>
+		<Setting name="Number of Transfers">2</Setting>
+		<Setting name="Ascii Binary mode">0</Setting>
+		<Setting name="Auto Ascii files">ac|am|asp|bat|c|cfm|cgi|conf|cpp|css|dhtml|diff|diz|h|hpp|htm|html|in|inc|java|js|jsp|lua|m4|mak|md5|nfo|nsh|nsi|pas|patch|pem|php|phtml|pl|po|pot|py|qmail|sh|sha1|sha256|sha512|shtml|sql|svg|tcl|tpl|txt|vbs|xhtml|xml|xrc</Setting>
+		<Setting name="Auto Ascii no extension">1</Setting>
+		<Setting name="Auto Ascii dotfiles">1</Setting>
+		<Setting name="Language Code" />
+		<Setting name="Concurrent download limit">0</Setting>
+		<Setting name="Concurrent upload limit">0</Setting>
+		<Setting name="Update Check">1</Setting>
+		<Setting name="Update Check Interval">7</Setting>
+		<Setting name="Update Check Check Beta">0</Setting>
+		<Setting name="Show debug menu">0</Setting>
+		<Setting name="File exists action download">0</Setting>
+		<Setting name="File exists action upload">0</Setting>
+		<Setting name="Allow ascii resume">0</Setting>
+		<Setting name="Show Tree Local">1</Setting>
+		<Setting name="Show Tree Remote">1</Setting>
+		<Setting name="File Pane Layout">0</Setting>
+		<Setting name="File Pane Swap">0</Setting>
+		<Setting name="Filelist directory sort">0</Setting>
+		<Setting name="Filelist name sort">0</Setting>
+		<Setting name="Queue successful autoclear">0</Setting>
+		<Setting name="Show message log">1</Setting>
+		<Setting name="Show queue">1</Setting>
+		<Setting name="Always use default editor">0</Setting>
+		<Setting name="Comparison mode">1</Setting>
+		<Setting name="Comparison threshold">1</Setting>
+		<Setting name="Icon theme">default</Setting>
+		<Setting name="Icon scale">125</Setting>
+		<Setting name="Timestamp in message log">0</Setting>
+		<Setting name="Local filelist shown columns">1111</Setting>
+		<Setting name="Remote filelist shown columns">111111</Setting>
+		<Setting name="Local filelist column order">0,1,2,3</Setting>
+		<Setting name="Remote filelist column order">0,1,2,3,4,5</Setting>
+		<Setting name="Filelist status bar">1</Setting>
+		<Setting name="Filter toggle state">0</Setting>
+		<Setting name="Show quickconnect bar">1</Setting>
+		<Setting name="Messagelog position">0</Setting>
+		<Setting name="File doubleclick action">0</Setting>
+		<Setting name="Dir doubleclick action">0</Setting>
+		<Setting name="Minimize to tray">0</Setting>
+		<Setting name="Search column widths" />
+		<Setting name="Search column shown" />
+		<Setting name="Search column order" />
+		<Setting name="Comparison hide identical">0</Setting>
+		<Setting name="Search sort order" />
+		<Setting name="Edit track local">1</Setting>
+		<Setting name="Prevent idle sleep">1</Setting>
+		<Setting name="Filteredit window size" />
+		<Setting name="Enable invalid char filter">1</Setting>
+		<Setting name="Invalid char replace">_</Setting>
+		<Setting name="Edit status dialog size" />
+		<Setting name="Display current speed">0</Setting>
+		<Setting name="Toolbar hidden">0</Setting>
+		<Setting name="Strip VMS revisions">0</Setting>
+		<Setting name="Startup action">0</Setting>
+		<Setting name="Prompt password save">0</Setting>
+		<Setting name="Queue completion action">1</Setting>
+		<Setting name="Queue completion command" />
+		<Setting name="Drag and Drop disabled">0</Setting>
+		<Setting name="Disable update footer">0</Setting>
+		<Setting name="Master password encryptor" />
+		<Setting name="Config Location" platform="win">C:\Users\Mukesh Pokhriyal\AppData\Roaming\FileZilla\</Setting>
+		<Setting name="Kiosk mode">0</Setting>
+		<Setting name="Disable update check">0</Setting>
+		<Setting name="Cache directory" platform="win" />
+		<Setting name="Highest shown overlay id">0</Setting>
+		<Setting name="Remote filelist colwidths">338 75 80 100 80 85</Setting>
+		<Setting name="Greeting resources" />
+		<Setting name="Last automatic update version">3.52.0.5</Setting>
+		<Setting name="Last automatic update check">2021-02-24 15:47:48</Setting>
+		<Setting name="Update Check New Version" platform="win">nightly 2021-02-23 https://filezilla-project.org/nightlies/2021-02-23/win64/FileZilla_3_setup.exe 11853896 sha512 6ebce410d1991a92232fb6cd8c0bc9fecbbe9faae199cf14c386df7a16369bc3b43cad5d25a57ba40ced4ffab1bc80a202abf6b42275a16c90c11caa3f88f4af sig:sPViUI724L7maL5oXwrd915Z30XXXLZJerINs9vGqS+gmvUV1gXPs71LFtBxLHWKLJty35u/EwhroXPESG/uCg
+release 3.51.0 https://dl4.cdn.filezilla-project.org/FileZilla_3.51.0_win64-setup.exe 11312288 sha512 2d0cd7c9775315d7094eff3c0c1a05f72f8199bed1732ba3236bd83feba30a4bb58e602fa38d9427eb5b7854a19f4eaa40752f5fd82776d018e549ad6ffc0749 sig:Z36vU8T2rpjHPe4SD/bpXM0w0lxufLi1nbzKmsdzsmv2cKVTuiSAFflW4S2UX92hNiq/rl7MCpws316UlNwbBA
+</Setting>
+		<Setting name="Timeout">0</Setting>
+		<Setting name="Time Format">0</Setting>
+		<Setting name="Date Format">0</Setting>
+		<Setting name="Default editor" platform="win">0</Setting>
+		<Setting name="MIME type to extension map">application/java-archive=jar;application/javascript=js;application/pdf=pdf;application/rss+xml=rss;application/x-font-ttf=ttf;application/x-shockwave-flash=swf;application/xml=xml xsl;application/xslt+xml=xslt;application/zip=zip;binary/octet-stream=bin exe;image/gif=gif;image/jpeg=jpeg jpg jpe;image/png=png;image/svg+xml=svg;text/css=css;text/html=html htm;text/plain=txt text;</Setting>
+		<Setting name="S3 Providers">
+			<providers>
+				<provider>
+					<name>Amazon S3</name>
+					<catchall>.amazonaws.com</catchall>
+					<format>s3.dualstack.{REGION}.amazonaws.com</format>
+					<regions>
+						<region>
+							<name>us-east-1</name>
+							<description>US East (N. Virginia)</description>
+							<endpoints>
+								<endpoint>s3.dualstack.us-east-1.amazonaws.com</endpoint>
+								<endpoint>s3-external-1.amazonaws.com</endpoint>
+								<endpoint>s3.amazonaws.com</endpoint>
+							</endpoints>
+						</region>
+						<region>
+							<name>us-east-2</name>
+							<description>US East (Ohio)</description>
+							<endpoints>
+								<endpoint>s3.dualstack.us-east-2.amazonaws.com</endpoint>
+								<endpoint>s3.us-east-2.amazonaws.com</endpoint>
+							</endpoints>
+						</region>
+						<region>
+							<name>us-west-1</name>
+							<description>US West (N. California)</description>
+							<endpoints>
+								<endpoint>s3.dualstack.us-west-1.amazonaws.com</endpoint>
+								<endpoint>s3.us-west-1.amazonaws.com</endpoint>
+							</endpoints>
+						</region>
+						<region>
+							<name>us-west-2</name>
+							<description>US West (Oregon)</description>
+							<endpoints>
+								<endpoint>s3.dualstack.us-west-2.amazonaws.com</endpoint>
+								<endpoint>s3.us-west-2.amazonaws.com</endpoint>
+							</endpoints>
+						</region>
+						<region>
+							<name>ca-central-1</name>
+							<description>Canada (Central)</description>
+							<endpoints>
+								<endpoint>s3.dualstack.ca-central-1.amazonaws.com</endpoint>
+								<endpoint>s3.ca-central-1.amazonaws.com</endpoint>
+							</endpoints>
+						</region>
+						<region>
+							<name>ap-east-1</name>
+							<description>Asia Pacific (Hong Kong)</description>
+							<endpoints>
+								<endpoint>s3.dualstack.ap-east-1.amazonaws.com</endpoint>
+								<endpoint>s3.ap-east-1.amazonaws.com</endpoint>
+							</endpoints>
+						</region>
+						<region>
+							<name>ap-south-1</name>
+							<description>Asia Pacific (Mumbai)</description>
+							<endpoints>
+								<endpoint>s3.dualstack.ap-south-1.amazonaws.com</endpoint>
+								<endpoint>s3.ap-south-1.amazonaws.com</endpoint>
+							</endpoints>
+						</region>
+						<region>
+							<name>ap-northeast-1</name>
+							<description>Asia Pacific (Tokyo)</description>
+							<endpoints>
+								<endpoint>s3.dualstack.ap-northeast-1.amazonaws.com</endpoint>
+								<endpoint>s3.ap-northeast-1.amazonaws.com</endpoint>
+							</endpoints>
+						</region>
+						<region>
+							<name>ap-northeast-2</name>
+							<description>Asia Pacific (Seoul)</description>
+							<endpoints>
+								<endpoint>s3.dualstack.ap-northeast-2.amazonaws.com</endpoint>
+								<endpoint>s3.ap-northeast-2.amazonaws.com</endpoint>
+							</endpoints>
+						</region>
+						<region>
+							<name>ap-northeast-3</name>
+							<description>Asia Pacific (Osaka - Local)</description>
+							<endpoints>
+								<endpoint>s3.dualstack.ap-northeast-3.amazonaws.com</endpoint>
+								<endpoint>s3.ap-northeast-3.amazonaws.com</endpoint>
+							</endpoints>
+						</region>
+						<region>
+							<name>ap-southeast-1</name>
+							<description>Asia Pacific (Singapore)</description>
+							<endpoints>
+								<endpoint>s3.dualstack.ap-southeast-1.amazonaws.com</endpoint>
+								<endpoint>s3.ap-southeast-1.amazonaws.com</endpoint>
+							</endpoints>
+						</region>
+						<region>
+							<name>ap-southeast-2</name>
+							<description>Asia Pacific (Sydney)</description>
+							<endpoints>
+								<endpoint>s3.dualstack.ap-southeast-2.amazonaws.com</endpoint>
+								<endpoint>s3.ap-southeast-2.amazonaws.com</endpoint>
+							</endpoints>
+						</region>
+						<region>
+							<name>cn-north-1</name>
+							<description>China (Beijing)</description>
+							<endpoints>
+								<endpoint>s3.cn-north-1.amazonaws.com.cn</endpoint>
+							</endpoints>
+						</region>
+						<region>
+							<name>cn-northwest-1</name>
+							<description>China (Ningxia)</description>
+							<endpoints>
+								<endpoint>s3.cn-northwest-1.amazonaws.com.cn</endpoint>
+							</endpoints>
+						</region>
+						<region>
+							<name>eu-central-1</name>
+							<description>EU (Frankfurt)</description>
+							<endpoints>
+								<endpoint>s3.dualstack.eu-central-1.amazonaws.com</endpoint>
+								<endpoint>s3.eu-central-1.amazonaws.com</endpoint>
+							</endpoints>
+						</region>
+						<region>
+							<name>eu-west-1</name>
+							<description>EU (Ireland)</description>
+							<endpoints>
+								<endpoint>s3.dualstack.eu-west-1.amazonaws.com</endpoint>
+								<endpoint>s3.eu-west-1.amazonaws.com</endpoint>
+							</endpoints>
+						</region>
+						<region>
+							<name>eu-west-2</name>
+							<description>EU (London)</description>
+							<endpoints>
+								<endpoint>s3.dualstack.eu-west-2.amazonaws.com</endpoint>
+								<endpoint>s3.eu-west-2.amazonaws.com</endpoint>
+							</endpoints>
+						</region>
+						<region>
+							<name>eu-west-3</name>
+							<description>EU (Paris)</description>
+							<endpoints>
+								<endpoint>s3.dualstack.eu-west-3.amazonaws.com</endpoint>
+								<endpoint>s3.eu-west-3.amazonaws.com</endpoint>
+							</endpoints>
+						</region>
+						<region>
+							<name>eu-north-1</name>
+							<description>EU (Stockholm)</description>
+							<endpoints>
+								<endpoint>s3.dualstack.eu-north-1.amazonaws.com</endpoint>
+								<endpoint>s3.eu-north-1.amazonaws.com</endpoint>
+							</endpoints>
+						</region>
+						<region>
+							<name>eu-south-1</name>
+							<description>EU (Milan)</description>
+							<endpoints>
+								<endpoint>s3.dualstack.eu-south-1.amazonaws.com</endpoint>
+								<endpoint>s3.eu-south-1.amazonaws.com</endpoint>
+							</endpoints>
+						</region>
+						<region>
+							<name>me-south-1</name>
+							<description>Middle East (Bahrain)</description>
+							<endpoints>
+								<endpoint>s3.dualstack.me-south-1.amazonaws.com</endpoint>
+								<endpoint>s3.me-south-1.amazonaws.com</endpoint>
+							</endpoints>
+						</region>
+						<region>
+							<name>sa-east-1</name>
+							<description>South America (Sao Paulo)</description>
+							<endpoints>
+								<endpoint>s3.dualstack.sa-east-1.amazonaws.com</endpoint>
+								<endpoint>s3.sa-east-1.amazonaws.com</endpoint>
+							</endpoints>
+						</region>
+					</regions>
+				</provider>
+			</providers>
+		</Setting>
+		<Setting name="OAuth Client ID Google Cloud Storage" />
+		<Setting name="OAuth Client ID Google Drive" />
+		<Setting name="Filesync mode">0</Setting>
+		<Setting name="Filesync samefile action">0</Setting>
+		<Setting name="Filesync recursive">0</Setting>
+		<Setting name="Filesync preview">1</Setting>
+		<Setting name="Update Check Asked Registration">0</Setting>
+		<Setting name="Site Manager Sync Host" />
+		<Setting name="Site Manager Sync Key" />
+		<Setting name="Site Manager Sync State" />
+		<Setting name="Appstore last review request" />
+		<Setting name="S3 Canned ACL">0</Setting>
+		<Setting name="S3 Storage Class">0</Setting>
+		<Setting name="Last automatic update version (Pro)">3.54.2</Setting>
+		<Setting name="Last automatic update check (Pro)">2021-08-01 22:19:07</Setting>
+		<Setting name="Update Check New Version (Pro)" platform="win">release 3.55.0 https://download.filezilla-project.org/FileZilla_Pro_3.55.0_win64-setup.exe 12331336 sha512 abf964023352acfac80087c3c7335309d0d3a1c16eaef8fbac34837e29245217a7d993e3d7c3aa844ceb2db1e856204c802277db753a27582bc6cf6de987da54 sig:/Wn0XqoWMm0q818o7UWmpGyNz6b0+iFxF4+vL2uS6GAoKn0uOw250NYEJrvV2+71Nhr0vp0buHVUdxKuoM26Ag
+registration
+
+3.55.0 (2021-07-12)
+
+- Updated translations
+- Updated SFTP components
+- Set appropriate ALPN on TLS connections
+- Fixed loading of settings files that were moved between platforms
+- Refactored updater internals
+</Setting>
+		<Setting name="Local filelist colwidths">350 80 120 120</Setting>
+		<Setting name="Minimum TLS Version">2</Setting>
+		<Setting name="Trust system trust store">0</Setting>
+		<Setting name="Already connected choice">0</Setting>
+		<Setting name="Filesync filters">1</Setting>
+		<Setting name="Bulk rename window size" />
+		<Setting name="Bulk rename mode">0</Setting>
+		<Setting name="Bulk rename entry exists action">0</Setting>
+		<Setting name="Bulk rename add text mode">0</Setting>
+		<Setting name="Bulk rename find string" />
+		<Setting name="Bulk rename replace string" />
+		<Setting name="Bulk rename regex">0</Setting>
+		<Setting name="Bulk rename case insensitive">0</Setting>
+		<Setting name="Window position and size">1 493 117 1370 679 </Setting>
+		<Setting name="Google Drive export format">0</Setting>
+		<Setting name="Persistent Choices">1</Setting>
+		<Setting name="Onetime Dialogs">00001</Setting>
+		<Setting name="Versions dialog size" />
+		<Setting name="Delete all versions">0</Setting>
+		<Setting name="Search window size">0 267 255 1370 482 </Setting>
+		<Setting name="File associations (v2)" platform="win">. C:\WINDOWS\system32\NOTEPAD.EXE %f
+/ C:\WINDOWS\system32\NOTEPAD.EXE %f
+css C:\WINDOWS\system32\NOTEPAD.EXE %f
+html "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --single-argument %f
+php "C:\Program Files\Notepad++\notepad++.exe"
+txt C:\WINDOWS\system32\NOTEPAD.EXE %f</Setting>
+		<Setting name="Directory listing item limit">10000000</Setting>
+		<Setting name="Splitter positions (v2)">120 -268 500000000 183 182 500000000</Setting>
+		<Setting name="Local filelist sortorder">1 3</Setting>
+		<Setting name="Site Manager position">0 507 226 890 540 </Setting>
+		<Setting name="Queue column widths">632 60 721 80 60 150</Setting>
+		<Setting name="Remote filelist sortorder">0 3</Setting>
+		<Setting name="Google User Data Policy Shown">0</Setting>
+		<Setting name="Greeting version">3.66.4</Setting>
+		<Setting name="Last automatic update version" product="pro">3.66.4</Setting>
+		<Setting name="Tab data" sensitive="1">
+			<Tabs>
+				<Tab connected="1" selected="1">
+					<Host>156.67.78.2</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>u207550214.52worksheets.com</User>
+					<Pass encoding="base64">UmZzbHNkZjA5MGRmanAhQCM=</Pass>
+					<Logontype>1</Logontype>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>52worksheets.com</Name>
+					<Site>0/52worksheets.com</Site>
+					<RemotePath>1 0 11 public_html</RemotePath>
+					<LocalPath>D:\xampp\htdocs\52worksheets.com\</LocalPath>
+				</Tab>
+				<Tab connected="1">
+					<Host>156.67.78.2</Host>
+					<Port>21</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>u207550214.52worksheets.com</User>
+					<Pass encoding="base64">UmZzbHNkZjA5MGRmanAhQCM=</Pass>
+					<Logontype>1</Logontype>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>52worksheets.com</Name>
+					<Site>0/52worksheets.com</Site>
+					<RemotePath>1 0 11 public_html</RemotePath>
+					<LocalPath>D:\xampp\htdocs\52worksheets.com\</LocalPath>
+				</Tab>
+			</Tabs>
+		</Setting>
+		<Setting name="Last registration prompt">2024-02-12 17:11:55</Setting>
+		<Setting name="Last automatic update check" product="pro">2024-02-12 17:12:43</Setting>
+		<Setting name="Update Check New Version" platform="win" product="pro">release 3.64.0 https://download.filezilla-project.org/FileZilla_Pro_3.64.0_win64-setup.exe 13218200 sha512 c286eeff0e261176db1a3a711351de507fe618b3056ff2b647ad399c1fcc3a008d5fd1415a16a3f0c96329bf8f016accc249b3426bcae17c0af05946019b2f7d sig:5i7vxzRoYx/9XDOnEUXA5Up9Vs+P0PXwlc2ydE3pSvV+9UQJzrZERw1H8SbNiacWXgNfT4JWbaFFyvTRkNkuDQ
+registration
+</Setting>
+		<Setting name="Sitemanager last selected">0/52worksheets.com</Setting>
+	</Settings>
+	<Queue />
+</FileZilla3>

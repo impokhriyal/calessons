@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /node_modules/
+Disallow: /src/
+
+sitemap: https://www.52worksheets.com/sitemap.xml
+sitemap: https://www.52worksheets.com/sitemap-images.xml
+sitemap: https://www.52worksheets.com/sitemap-videos.xml

@@ -1,0 +1,131 @@
+// 
+// reboot.scss
+// Extended from Bootstrap
+// 
+html {
+  position: relative;
+  overflow-x: hidden;
+}
+
+html,
+body,
+.viewport {
+  height: 100%;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+  // overflow-x: hidden;
+  z-index: 0;
+  position: relative;
+}
+
+main {
+  background-color: $main-content-bg;
+  // background-image: linear-gradient(120deg, #e7e4f2 0%, $main-content-bg 100%);
+}
+
+header {
+  position: relative;
+  z-index: $zindex-header;
+  background: $white;
+}
+
+b,
+strong {
+  font-weight: $font-weight-bold;
+}
+
+a {
+  transition: $transition-base;
+}
+
+h1 > a,
+h2 > a,
+h3 > a,
+h4 > a,
+h5 > a,
+h6 > a,
+.h1 > a,
+.h2 > a,
+.h3 > a,
+.h4 > a,
+.h5 > a,
+.h6 > a {
+  color: $gray-800;
+}
+
+h1 > a:hover,
+h2 > a:hover,
+h3 > a:hover,
+h4 > a:hover,
+h5 > a:hover,
+h6 > a:hover,
+.h1 > a:hover,
+.h2 > a:hover,
+.h3 > a:hover,
+.h4 > a:hover,
+.h5 > a:hover,
+.h6 > a:hover {
+  color: $primary;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+video {
+  background-size: cover;
+  display: table-cell;
+  vertical-align: middle;
+  width: 100%;
+}
+
+iframe {
+  border: 0;
+}
+
+ul,
+ol,
+dl {
+  list-style-position: inside;
+  padding: 0;
+  margin: 0;
+}
+
+audio {
+  width: 100%;
+}
+
+// Section padding top and bottom
+section {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  &.section-header {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+}
+
+@include media-breakpoint-down(md) {
+  section {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+}
+
+*:focus {
+  outline: none !important;
+}
+
+// Highlight Color
+::selection {
+  color: $white;
+  background: $primary;
+}
+.bg-primary::selection {
+  color: $primary;
+  background: $white;
+}

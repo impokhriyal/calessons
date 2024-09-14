@@ -1,0 +1,198 @@
+.ca-wrapper {
+    .col {
+        &.sidebar {
+            .dropdown-menu {
+                @extend .shadow;
+            }
+            &.left {
+                .dropdown {
+                    @extend .dropright;
+                }
+                .dropdown-menu {
+                    height: 100%;
+                    width: 425px;
+                    -webkit-animation: navFadeInRight 0.5s ease-in-out 300ms both;
+					animation: navFadeInRight 0.5s ease-in-out 300ms both;
+                    position:fixed;
+                    top:0px;
+                    bottom: 0px;
+                    left: 296px;
+                    .dropdown-item {
+                        white-space: normal;
+                    }
+                }
+                .dropdown-toggle,
+                .nav-link {
+                    padding-left: 30px;
+                }
+            }
+            &.right {
+                .dropdown {
+                    @extend .dropleft;
+                }
+                .dropdown-menu {
+                    height: 100%;
+                    width: 425px;
+                    font-size: 14px;
+                    -webkit-animation: navFadeInLeft 0.5s ease-in-out 400ms both;
+					animation: navFadeInLeft 0.5s ease-in-out 400ms both;
+                    position:fixed;
+                    top:0px;
+                    right: 296px;
+                    bottom: 0px;
+                    .dropdown-item {
+                        white-space: normal;
+                    }
+                }
+                .nav-link {
+                    padding-left: 30px;
+                    &.dropdown-toggle {
+                        padding-left: 1rem;
+                    }
+                }
+            }
+        }
+    }
+}
+
+// dropdown menu animation
+.navFadeInLeft {
+    -webkit-animation-name: navFadeInLeft; /* Safari & Chrome */
+    -moz-animation-name: navFadeInLeft; /* Firefox */
+    -ms-animation-name: navFadeInLeft; /* Internet Explorer */
+    -o-animation-name: navFadeInLeft; /* Opera */
+    animation-name: navFadeInLeft; /* W3C */
+}
+@keyframes navFadeInLeft {
+	0% {
+		opacity: 0;
+        -webkit-transform: translateX(5px); /* WebKit */
+        -moz-transform: translateX(5px); /* Mozilla */
+        -o-transform: translateX(5px); /* Opera */
+        -ms-transform: translateX(5px); /* Internet Explorer */
+        transform: translateX(5px); /* CSS3 */
+	}
+	100% {
+		opacity: 1;
+        -webkit-transform: translateX(0); /* WebKit */
+        -moz-transform: translateX(0); /* Mozilla */
+        -o-transform: translateX(0); /* Opera */
+        -ms-transform: translateX(0); /* Internet Explorer */
+        transform: translateX(0); /* CSS3 */
+	}
+}
+
+.navFadeInRight {
+    -webkit-animation-name: navFadeInRight; /* Safari & Chrome */
+    -moz-animation-name: navFadeInRight; /* Firefox */
+    -ms-animation-name: navFadeInRight; /* Internet Explorer */
+    -o-animation-name: navFadeInRight; /* Opera */
+    animation-name: navFadeInRight; /* W3C */
+}
+@keyframes navFadeInRight {
+	0% {
+		opacity: 0;
+        -webkit-transform: translateX(-5px); /* WebKit */
+        -moz-transform: translateX(-5px); /* Mozilla */
+        -o-transform: translateX(-5px); /* Opera */
+        -ms-transform: translateX(-5px); /* Internet Explorer */
+        transform: translateX(-5px); /* CSS3 */
+	}
+	100% {
+		opacity: 1;
+        -webkit-transform: translateX(0); /* WebKit */
+        -moz-transform: translateX(0); /* Mozilla */
+        -o-transform: translateX(0); /* Opera */
+        -ms-transform: translateX(0); /* Internet Explorer */
+        transform: translateX(0); /* CSS3 */
+	}
+}
+
+.dropleft {
+    .dropdown-toggle {
+        &::before {
+            border: none!important;
+            font: bold normal normal 14px/1 'Font Awesome 5 Free';
+            content: "\f0d9" !important; /* the desired Bootstrap icon */
+            vertical-align: 0; /* to center vertically */
+            margin-right:5px;
+        }
+        &::after {
+            content: "" !important; /* the desired Bootstrap icon */
+            display:none;
+        }
+    }
+}
+.dropright {
+    .dropdown-toggle {
+        &::before {
+            border: none !important;
+            font: bold normal normal 14px/1 'Font Awesome 5 Free';
+            content: "\f0da" !important; /* the desired Bootstrap icon */
+            vertical-align: 0; /* to center vertically */
+            float: right;
+        }
+        &::after {
+            content: "" !important; /* the desired Bootstrap icon */
+            display:none;
+        }
+    }
+}
+
+@include media-breakpoint-down(sm) {
+    .ca-wrapper {
+        .col {
+            &.sidebar {
+                &.left,
+                &.right {
+                    .dropdown-menu {
+                        height: auto;
+                        width: 100%;
+                        position:relative;
+                        top:0px;
+                        right: 0px;
+                        bottom: 0px;
+                        left: 0px;
+                    }
+                }
+                .dropdown-menu {
+                    background-color: #63731a !important;
+                    box-shadow:none !important;
+                    -webkit-box-shadow:none !important;
+                    -moz-box-shadow:none !important;
+                    margin-bottom:15px;
+                }
+            }
+        }
+    }
+    .dropleft {
+        .dropdown-toggle {
+            &::before {
+                border: none!important;
+                font: bold normal normal 14px/1 'Font Awesome 5 Free';
+                content: "\f0d9" !important; /* the desired Bootstrap icon */
+                vertical-align: 0; /* to center vertically */
+                margin-right:5px;
+            }
+            &::after {
+                content: "" !important; /* the desired Bootstrap icon */
+                display:none;
+            }
+        }
+    }
+    .dropright {
+        .dropdown-toggle {
+            &::before {
+                border: none !important;
+                font: bold normal normal 14px/1 'Font Awesome 5 Free';
+                content: "\f0da" !important; /* the desired Bootstrap icon */
+                vertical-align: 0; /* to center vertically */
+                float: right;
+            }
+            &::after {
+                content: "" !important; /* the desired Bootstrap icon */
+                display:none;
+            }
+        }
+    }
+}

@@ -1,0 +1,212 @@
+.card {
+    text-align: center;
+    .card-thumb {
+        overflow: hidden;
+        @extend .d-flex;
+        @extend .justify-content-center;
+        img {
+            -moz-transition:    all 900ms ease;
+            -o-transition:      all 900ms ease;
+            -webkit-transition: all 900ms ease;
+            transition:         all 900ms ease;
+        }
+    }
+    .card-body {
+        position: relative;
+        // padding: 15px;
+        -moz-transition:    all 400ms ease-out 0s;
+        -o-transition:      all 400ms ease-out 0s;
+        -webkit-transition: all 400ms ease-out 0s;
+        transition:         all 400ms ease-out 0s;
+        .card-title {
+            font-weight:800;
+            font-size: 18px;
+            margin-bottom: 16px;
+            &.medium {
+                font-size: 15px !important;
+            }
+            &.small {
+                font-size: 14px !important;
+            }
+        }
+        .card-text {
+            font-weight: $font-weight-normal;
+        }
+    }
+    &:hover {
+        -webkit-box-shadow: 0 0 16px 10px rgba(0, 0, 0, 0.06);
+        -moz-box-shadow: 0 0 16px 10px rgba(0, 0, 0, 0.06);
+        -khtml-box-shadow: 0 0 16px 10px rgba(0, 0, 0, 0.06);
+        -ms-box-shadow: 0 0 16px 10px rgba(0, 0, 0, 0.06);
+        -o-box-shadow: 0 0 16px 10px rgba(0, 0, 0, 0.06);
+        box-shadow: 0 0 16px 10px rgba(0, 0, 0, 0.06);
+        &:after {
+            width: 100%;
+        }
+    }
+}
+
+// Card line bottom animation 
+.card {
+    &.card-line-bottom {
+        &:after {
+            border-radius: 15px;
+            position: absolute;
+            height: 3px;
+            width: 0;
+            left: 0;
+            bottom: 0;
+            content: "";
+            right: 0;
+            margin: 0 auto;
+            opacity: 0.6;
+            z-index: 0;
+            -moz-transition:    all 400ms ease-out 0s;
+            -o-transition:      all 400ms ease-out 0s;
+            -webkit-transition: all 400ms ease-out 0s;
+            transition:         all 400ms ease-out 0s;
+        }
+    }
+}
+
+// Card line bottom colors
+.card-line-bottom {
+    &.line-primary {
+        &:after {
+            background: $primary;
+        }
+    }
+    &.line-success {
+        &:after {
+            background: $success;
+        }
+    }
+    &.line-dark {
+        &:after {
+            background: $dark;
+        }
+    }
+}
+
+// Card image animations
+.card {
+    &.card-zoom-img {
+        &:hover {
+            .card-thumb {
+                img {
+                    -webkit-transform: scale(1.2);
+                    -moz-transform: scale(1.2);
+                    -ms-transform: scale(1.2);
+                    transform: scale(1.2);
+                }
+            }
+        }
+    }    
+    &.card-rotate-img {
+        &:hover {
+            .card-thumb {
+                img {
+                    -webkit-transform: rotate(3deg);
+                    -moz-transform: rotate(3deg);
+                    -ms-transform: rotate(3deg);
+                    transform: rotate(3deg);
+                }
+            }
+        }
+    }    
+    &.card-zoom-rotate-img {
+        &:hover {
+            .card-thumb {
+                img {
+                    -webkit-transform: scale(1.2) rotate(3deg);
+                    -moz-transform: scale(1.2) rotate(3deg);
+                    -ms-transform: scale(1.2) rotate(3deg);
+                    transform: scale(1.2) rotate(3deg);
+                }
+            }
+        }
+    }
+}
+
+// Hovering on card to show element
+.card {
+    .card-element-hover {
+        visibility: hidden;
+        margin-top: 30px;
+        opacity: 0;
+        transition: $transition-base;
+        z-index: 9;
+    }
+
+    &:hover {
+        .card-element-hover {
+            visibility: visible;
+            margin-top: 0px;
+            opacity: 1;
+        }
+    }
+}
+
+// Hovering on card to show hover overlay on bottom
+.card {
+    &:hover {
+        .hover-overlay-bottom {
+            &:before {
+                content: "";
+                position: absolute;
+                height: 40%;
+                width: 100%;
+                bottom: 0;
+                background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgba(0, 0, 0, 0.8)));
+                background-image: linear-gradient(180deg, transparent, rgba(0, 0, 0, 0.8));
+                z-index: 9;
+            }
+        }
+    }
+}
+
+// Hovering on card to show hover overlay on top
+.card {
+    &:hover {
+        .hover-overlay-top {
+            &:before {
+                content: "";
+                position: absolute;
+                height: 40%;
+                width: 100%;
+                top: 0;
+                background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgba(0, 0, 0, 0.8)));
+                background-image: linear-gradient(0deg, transparent, rgba(0, 0, 0, 0.8));
+                z-index: 9;
+            }
+        }
+    }
+}
+
+a {
+    .card-text {
+        color: $body-color;
+    }
+}
+
+@include media-breakpoint-down(md) {
+    .card {
+        .card-body {
+            padding: 15px;
+            .card-title {
+                font-size: 16px;
+                &.medium {
+                    font-size: 15px !important;
+                }
+                &.small {
+                    font-size: 14px !important;
+                }
+            }
+            .card-text {
+                line-height:1.075rem; 
+                font-size:0.8rem; 
+                font-family:Arial;
+            }
+        }
+    }
+}

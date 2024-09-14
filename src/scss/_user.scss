@@ -1,0 +1,29 @@
+.bg-video-thumb {
+    background-color: #b2baa7;
+}
+
+.lh-none {
+    line-height: 0px !important;
+}
+
+.slider-border-bottom {
+    border-bottom: 5px solid #471240
+}
+
+.contact-location-map {
+    height:100%;
+}
+
+.video-title {
+    line-height: 1.2;
+}
+
+.related-worksheets {
+    padding-bottom:0px;
+}
+
+@include media-breakpoint-down(md) {
+    .contact-location-map {
+        height:400px;
+    }
+}
